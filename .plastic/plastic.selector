@@ -1,0 +1,4 @@
+repository "CityRushing@chuanhtung@cloud"
+  path "/"
+    br "/main"
+    co "/main"
